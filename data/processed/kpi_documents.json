@@ -1,0 +1,68 @@
+[
+  {
+    "id": "overall_sales_summary",
+    "title": "Overall Sales Summary",
+    "content": "Overall Sales Performance Summary:\nTotal revenue across all customers and periods: $80,557,890.73\nAverage monthly revenue: $3,356,578.78\nTop performing region: South\nTop performing product: Product E\nTotal number of customers: 50\nDate range: 2022-01-01 to 2023-11-22",
+    "category": "sales"
+  },
+  {
+    "id": "regional_summary_central",
+    "title": "Central Region Sales Summary",
+    "content": "Central Region Sales Summary:\nTotal revenue: $10,544,741.61\nPercentage of total revenue: 13.1%\nNumber of customers: 7\nAverage monthly revenue: $439,364.23",
+    "category": "sales"
+  },
+  {
+    "id": "regional_summary_east",
+    "title": "East Region Sales Summary",
+    "content": "East Region Sales Summary:\nTotal revenue: $18,866,140.13\nPercentage of total revenue: 23.4%\nNumber of customers: 11\nAverage monthly revenue: $786,089.17",
+    "category": "sales"
+  },
+  {
+    "id": "regional_summary_north",
+    "title": "North Region Sales Summary",
+    "content": "North Region Sales Summary:\nTotal revenue: $10,197,292.21\nPercentage of total revenue: 12.7%\nNumber of customers: 9\nAverage monthly revenue: $424,887.18",
+    "category": "sales"
+  },
+  {
+    "id": "regional_summary_south",
+    "title": "South Region Sales Summary",
+    "content": "South Region Sales Summary:\nTotal revenue: $31,335,783.26\nPercentage of total revenue: 38.9%\nNumber of customers: 15\nAverage monthly revenue: $1,305,657.64",
+    "category": "sales"
+  },
+  {
+    "id": "regional_summary_west",
+    "title": "West Region Sales Summary",
+    "content": "West Region Sales Summary:\nTotal revenue: $9,613,933.52\nPercentage of total revenue: 11.9%\nNumber of customers: 8\nAverage monthly revenue: $400,580.56",
+    "category": "sales"
+  },
+  {
+    "id": "segment_summary_enterprise",
+    "title": "Enterprise Segment Summary",
+    "content": "Enterprise Customer Segment Summary:\nTotal revenue: $27,419,968.01\nPercentage of total revenue: 34.0%\nNumber of customers: 50\nUnits sold: 99,850",
+    "category": "sales"
+  },
+  {
+    "id": "segment_summary_smb",
+    "title": "SMB Segment Summary",
+    "content": "SMB Customer Segment Summary:\nTotal revenue: $26,468,972.33\nPercentage of total revenue: 32.9%\nNumber of customers: 50\nUnits sold: 95,922",
+    "category": "sales"
+  },
+  {
+    "id": "segment_summary_startup",
+    "title": "Startup Segment Summary",
+    "content": "Startup Customer Segment Summary:\nTotal revenue: $26,668,950.39\nPercentage of total revenue: 33.1%\nNumber of customers: 50\nUnits sold: 106,299",
+    "category": "sales"
+  },
+  {
+    "id": "utilization_summary",
+    "title": "Product Utilization Summary",
+    "content": "Product Utilization Summary:\nAverage utilization rate across all customers: 61.9%\nMost used feature: Feature C\nAverage active users per customer: 103\nAverage sessions per month: 1039\nAverage session duration: 33.1 minutes",
+    "category": "utilization"
+  },
+  {
+    "id": "trend_summary",
+    "title": "Revenue Trend Summary",
+    "content": "Revenue Trend Analysis:\nRecent 3-month average revenue: $3,484,656.61\nPrevious 3-month average revenue: $3,468,834.78\nRevenue trend: +0.5% change\nOverall trend direction: Positive\nPeak revenue month: 2023-03-27\nPeak revenue: $4,316,859.02",
+    "category": "trends"
+  }
+]
